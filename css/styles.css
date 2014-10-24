@@ -676,7 +676,13 @@ header.band {
   padding: 10% 0 15% 0;
 }
 
-h1, h2, h3 {
+h1 {
+  font-family: 'Merriweather Sans', helvetica, verdana, arial;
+  font-weight: 700;
+  text-align: center;
+}
+
+h2, h3 {
   font-family: 'Roboto', helvetica, verdana, arial;
   font-weight: 700;
   text-align: center;
