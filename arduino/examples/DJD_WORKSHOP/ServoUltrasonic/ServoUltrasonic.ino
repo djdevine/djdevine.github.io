@@ -19,7 +19,7 @@ void setup() {
 void loop() {
   delay(50);                       // Wait 50ms between pings (about 20 pings/sec). 29ms should be the shortest delay between pings.
   val = sonar.ping_cm();           // Sets val to the current distance
-  val = map(val, 0, 100, 0, 180);  // Maps val (zero to one hundred) to servo (zero to one hundred and eighty)
+  val = map(val, 0, 100, 0, 180);  // Scales the input val (zero to one hundred) to servo (zero to one hundred and eighty)
   myservo.write(val);              // Moves servo to current val
   Serial.print("Ping: ");          // For debugging
   Serial.print(val);               // Send ping, get distance in cm and print result (0 = outside set distance range)
