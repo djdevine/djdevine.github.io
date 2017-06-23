@@ -1183,7 +1183,7 @@
 
 		#footer footer {
 			bottom: 2em;
-			color: rgba(255, 255, 255, 0.5);
+			color: rgba(0,0,0, 0.5);
 			left: 0;
 			position: absolute;
 			text-align: center;
@@ -1191,7 +1191,7 @@
 		}
 
 			#footer footer h1, #footer footer h2, #footer footer h3, #footer footer h4, #footer footer h5, #footer footer h6, #footer footer strong, #footer footer b {
-				color: #ffffff;
+				color: #61686b;
 			}
 
 			#footer footer a {
@@ -1199,7 +1199,7 @@
 			}
 
 				#footer footer a:hover {
-					color: #ffffff !important;
+					color: #000000 !important;
 				}
 
 			#footer footer .copyright {
@@ -1209,7 +1209,7 @@
 			}
 
 				#footer footer .copyright li {
-					border-left: solid 1px rgba(255, 255, 255, 0.2);
+					border-left: solid 1px rgba(0,0,0, 0.2);
 					display: inline-block;
 					margin: 0 0 0 1em;
 					padding: 0 0 0 1em;
