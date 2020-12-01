@@ -42,12 +42,22 @@ There's a few things you'll need.
 	- No comment.
 
 ## Starter
+### Getting Started
 It's easier to adopt an already healty starter. If you know me, just ask.
 
-If you have to make your own, I followed James Morton's method from his book, <i>[Super Sourdough](https://uk.bookshop.org/books/super-sourdough-the-foolproof-guide-to-making-world-class-bread-at-home/9781787134652)</i> (store link supports local bookshops, but it's on [Amazon](https://amzn.to/2XTQ2FD) too), which incidentally is a lovely coffee table book. Be warned, it took a couple shots before I got a culture that was stable. It could be a few weeks till you have something you can start baking with if you get unlucky.
+If you have to make your own, I followed James Morton's method from his book, <i>[Super Sourdough](https://uk.bookshop.org/books/super-sourdough-the-foolproof-guide-to-making-world-class-bread-at-home/9781787134652)</i> (store link supports local bookshops, but it's on [Amazon](https://amzn.to/2XTQ2FD) too). Incidentally, it's a lovely coffee table book and I'd recommend it. Be warned, it took a couple shots before I got a culture that was stable. It could be a few weeks till you have something you can start baking with if you get unlucky.
+
+### Feeding
+
 
 ## Recipe
 This is a summary of the steps I take, not an end-to-end guide. I'll link to where I learned methods for the tricky steps.
+
+---
+1.: uuu
+2.: rrr
+3.: eee
+---
 
 | 1. | 2. |
 |:-:|:-:|
