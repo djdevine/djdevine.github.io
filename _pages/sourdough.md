@@ -4,9 +4,9 @@ title: Sourdough
 permalink: /sourdough/
 ---
 
-Here's my recipe for sourdough. It'll most likely need tweaked for your specific starter. That is of course unless you've taken a fork of mine - lucky you!
+Here's my method for a rye sourdough loaf. It'll most likely need tweaked for your specific starter. That is of course unless you've taken a fork of mine - lucky you!
 
-<img src="/images/loaf_cut.jpg" alt="Finished loaf" width="200"/>
+<img src="/images/loaf_cut.jpg" alt="Finished loaf" width="400"/>
 
 ## My Ingredients
 Sourdough behaviour is super sensitive to the specific flour you use. Here's what I use:
