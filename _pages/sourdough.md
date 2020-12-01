@@ -6,11 +6,11 @@ permalink: /sourdough/
 
 Here's my method for a rye sourdough loaf. It'll most likely need tweaked for your specific starter. That is of course unless you've taken a fork of mine - lucky you!
 
-<a href="/images/loaf_cut.jpg"><img src="/images/loaf_cut_small.jpg" alt="Finished loaf" width="400"/></a>
+<a href="/images/loaf_cut.jpg"><img align="center" src="/images/loaf_cut_small.jpg" alt="Finished loaf" width="400"/></a>
 
 ## Shopping List
 ### Consumables
-Sourdough behaviour is super sensitive to the specific flour you use. Here's the consumable ingredients I use:
+Sourdough behaviour is super sensitive to the specific flour you use. Here's the consumable ingredients I use incase you want to use my method and quantities:
 
 - Strong White Bread Flour
 	- [Waitrose White Bread Flour](https://www.waitrose.com/ecom/products/waitrose-white-bread-flour/006224-2744-2745) (It was the only place I could get flour earlier in 2020!)
@@ -23,9 +23,7 @@ Sourdough behaviour is super sensitive to the specific flour you use. Here's the
 - Salt
 	- Any old table salt is fine
 - Water
-	- I've had better results if it has been boiled and allowed to cool. One of the disinfectants in my (excellent!) Glasgow water seems to inhibit the culture.
-
-That's it!
+	- I've had better results if it has been boiled and allowed to cool. One of the disinfectants in my (otherwise excellent!) Glasgow water seems to inhibit the culture.
 
 ### Equipment
 There's a few things you'll need.
@@ -37,7 +35,7 @@ There's a few things you'll need.
 - Lidded Bowl (Optional)
 	- The dough needs regular attention, but between these times it has to be covered else it'll dry out. A lid is way more convenient than fiddling with cling film.
 - Lame (or a very sharp knife)
-	- Honestly, I don't get on with my Lame and score before baking using a regularly sharpened knife.
+	- Honestly, I don't get on with my Lame and just use my sharpest knife. 🙃
 - Scales
 	- No comment.
 
@@ -50,14 +48,10 @@ If you have to make your own, I followed James Morton's method from his book, <i
 ### Feeding
 
 
+
 ## Recipe
 This is a summary of the steps I take, not an end-to-end guide. I'll link to where I learned methods for the tricky steps.
 
----
-1.: uuu
-2.: rrr
-3.: eee
----
 
 | 1. | 2. |
 |:-:|:-:|
