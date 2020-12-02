@@ -108,18 +108,18 @@ This is a summary of the steps I take, not an end-to-end guide. I'll link to whe
 - 8g 	Salt
 
 ### Timings
-| hh:mm | Step |
+|  | Step |
 |:-:|:-:|
-| 00:00 | Autolyse |
-| 01:00 | Stretch and fold 1 |
-| 01:30 | Stretch and fold 2 |
-| 02:00 | Stretch and fold 3 |
-| 02:30 | Stretch and fold 4 |
-| 03:30 | Rest on worktop |
-| 03:45 | Preshape |
-| 04:00 | Shape and refrigerate |
+| 0h00m | Autolyse |
+| 1h00m | Stretch and fold 1 |
+| 1h30m | Stretch and fold 2 |
+| 2h00m | Stretch and fold 3 |
+| 2h30m | Stretch and fold 4 |
+| 3h30m | Rest on worktop |
+| 3h45m | Preshape |
+| 4h00m | Shape and refrigerate |
 |  |  |
-| 00:00 | Oven on (250°C) to preheat stone |
-| 01:00 | Score and into oven, drop temp to 220°C |
-| 01:15 | Drop temp to 200°C |
-| 01:40 | Remove from oven |
+| 0h00m | Oven on (250°C) to preheat stone |
+| 1h00m | Score and into oven, drop temp to 220°C |
+| 1h15m | Drop temp to 200°C |
+| 1h40m | Remove from oven |
