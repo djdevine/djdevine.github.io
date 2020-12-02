@@ -100,11 +100,26 @@ __Warning__: It will become less active over time (and eventually die), but I've
 ## Recipe
 This is a summary of the steps I take, not an end-to-end guide. I'll link to where I learned methods for the tricky steps.
 
+### Ingredients for a 500g loaf
+- 70g	Starter
+- 260g 	Strong white flour
+- 60g 	Rye flour
+- 230g	Water
+- 8g 	Salt
 
-| 1. | 2. |
+### Timings
+| hh:mm | Step |
 |:-:|:-:|
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+| 00:00 | Autolyse |
+| 01:00 | Stretch and fold 1 |
+| 01:30 | Stretch and fold 2 |
+| 02:00 | Stretch and fold 3 |
+| 02:30 | Stretch and fold 4 |
+| 03:30 | Rest on worktop |
+| 03:45 | Preshape |
+| 04:00 | Shape and refrigerate |
+|  |  |
+| 00:00 | Oven on (250°C) to preheat stone |
+| 01:00 | Score and into oven, drop temp to 220°C |
+| 01:15 | Drop temp to 200°C |
+| 01:40 | Remove from oven |
