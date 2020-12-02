@@ -52,10 +52,10 @@ If you have to make your own, I followed James Morton's method from his book, <i
 The starter culture needs daily feeding. To stop the acidity becoming too high it you need to discard some. Keep a second container of discard, it doesn't need to go in the bin and you can bake other stuff with it!
 
 Ingredients:
-- 1 unit Prexisting Starter
-- 1 unit Strong White Flour
-- 1 unit Rye Flour
-- 2 units Water
+- 1 *unit* Prexisting Starter
+- 1 *unit* Strong White Flour
+- 1 *unit* Rye Flour
+- 2 *units* Water
 
 1. Discard
 	* I discard enough of the starter to end up with an amount that'll *roughly* make up a fifth of the new total mass. It's not too important to be accurate as long as you keep it under a third. This ratio is one way you can modulate the sourness of the final product as it comes from the lactic acid. 
@@ -68,24 +68,24 @@ Ingredients:
 	* You'll know the starter is healthy and ready to use when becomes bubbly and rises to \~ 300% of its original volume after a few hours. It's good to use before it starts to fall again. Mine generally is good anywhere between 8 and 12 hours after feeding so I feed it before bed, and start in the morning. Learn how long yours takes to bubble up and then base your feeding time on that.
 
 <p align="center">
-<a href="/images/starter_discard.jpg"><img src="/images/starter_discard.jpg" alt="Starter discard" width="400"/></a>
+<a href="/images/starter_discard.jpg"><img src="/images/starter_discard.jpg" alt="Starter discard" width="150"/></a>
 </p>
 <p align="center">
 <i>1. Discard - Move any excess starter to the discard container</i>
 </p>
 
 <p align="center">
-<a href="/images/starter_feed_1.jpg"><img src="/images/starter_feed_1.jpg" alt="Starter feed" width="400"/></a>
-<a href="/images/starter_feed_2.jpg"><img src="/images/starter_feed_2.jpg" alt="Starter feed" width="400"/></a>
-<a href="/images/starter_feed_3.jpg"><img src="/images/starter_feed_3.jpg" alt="Starter feed" width="400"/></a>
+<a href="/images/starter_feed_1.jpg"><img src="/images/starter_feed_1.jpg" alt="Starter feed" width="150"/></a>
+<a href="/images/starter_feed_2.jpg"><img src="/images/starter_feed_2.jpg" alt="Starter feed" width="150"/></a>
+<a href="/images/starter_feed_3.jpg"><img src="/images/starter_feed_3.jpg" alt="Starter feed" width="150"/></a>
 </p>
 <p align="center">
 <i>2. Feed - Unmixed. Mixed. Level after mixing.</i>
 </p>
 
 <p align="center">
-<a href="/images/starter_use_1.jpg"><img src="/images/starter_use_1.jpg" alt="Starter use" width="400"/></a>
-<a href="/images/starter_use_2.jpg"><img src="/images/starter_use_2.jpg" alt="Starter use" width="400"/></a>
+<a href="/images/starter_use_1.jpg"><img src="/images/starter_use_1.jpg" alt="Starter use" width="150"/></a>
+<a href="/images/starter_use_2.jpg"><img src="/images/starter_use_2.jpg" alt="Starter use" width="150"/></a>
 </p>
 <p align="center">
 <i>3. Use - Level after 10 hours. Bubbly texture.</i>
