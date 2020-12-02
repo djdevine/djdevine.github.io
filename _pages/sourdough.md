@@ -6,7 +6,9 @@ permalink: /sourdough/
 
 Here's my method for a rye sourdough loaf. It'll most likely need tweaked for your specific starter. That is of course unless you've taken a fork of mine - lucky you!
 
-<a href="/images/loaf_cut.jpg"><img align="center" src="/images/loaf_cut_small.jpg" alt="Finished loaf" width="400"/></a>
+<p align="center">
+<a href="/images/loaf_cut.jpg"><img src="/images/loaf_cut_small.jpg" alt="Finished loaf" width="400"/></a>
+</p>
 
 ## Shopping List
 ### Consumables
@@ -46,7 +48,53 @@ It's easier to adopt an already healty starter. If you know me, just ask.
 If you have to make your own, I followed James Morton's method from his book, <i>[Super Sourdough](https://uk.bookshop.org/books/super-sourdough-the-foolproof-guide-to-making-world-class-bread-at-home/9781787134652)</i> (store link supports local bookshops, but it's on [Amazon](https://amzn.to/2XTQ2FD) too). Incidentally, it's a lovely coffee table book and I'd recommend it. Be warned, it took a couple shots before I got a culture that was stable. It could be a few weeks till you have something you can start baking with if you get unlucky.
 
 ### Feeding
+#### I'm going to bake in the next 24h
+The starter culture needs daily feeding. To stop the acidity becoming too high it you need to discard some. Keep a second container of discard, it doesn't need to go in the bin and you can bake other stuff with it!
 
+Ingredients:
+- 1 unit Prexisting Starter
+- 1 unit Strong White Flour
+- 1 unit Rye Flour
+- 2 units Water
+
+1. Discard
+	* I discard enough of the starter to end up with an amount that'll *roughly* make up a fifth of the new total mass. It's not too important to be accurate as long as you keep it under a third. This ratio is one way you can modulate the sourness of the final product as it comes from the lactic acid. 
+	* If you repeatedly use too much old starter the acidity will creep up over time as the 'average content' will be older and hence more fermented (note to future self, word this better). Too much acid will break down the gluten you build up and the bread will either be sticky, or won't rise to its full potential.
+2. Feed
+	* Add in the ingredients as above. It *is* important that you're accurate with the ratio of flour to water here. Keep the total mass of flour and water equal to maintain a 100% overall hydration (wet mass as a percentage of dry mass). 
+	* The old starter will have hydration of 100%, so the amount you add of it won't change the hydration of the fed starter. That's why you can vary the amount of it.
+	* It's really imporant to **mix well**.
+3. Use
+	* You'll know the starter is healthy and ready to use when becomes bubbly and rises to \~ 300% of its original volume after a few hours. It's good to use before it starts to fall again. Mine generally is good anywhere between 8 and 12 hours after feeding so I feed it before bed, and start in the morning. Learn how long yours takes to bubble up and then base your feeding time on that.
+
+<p align="center">
+<a href="/images/starter_discard.jpg"><img src="/images/starter_discard.jpg" alt="Starter discard" width="400"/></a>
+</p>
+<p align="center">
+<i>1. Discard - Move any excess starter to the discard container</i>
+</p>
+
+<p align="center">
+<a href="/images/starter_feed_1.jpg"><img src="/images/starter_feed_1.jpg" alt="Starter feed" width="400"/></a>
+<a href="/images/starter_feed_2.jpg"><img src="/images/starter_feed_2.jpg" alt="Starter feed" width="400"/></a>
+<a href="/images/starter_feed_3.jpg"><img src="/images/starter_feed_3.jpg" alt="Starter feed" width="400"/></a>
+</p>
+<p align="center">
+<i>2. Feed - Unmixed. Mixed. Level after mixing.</i>
+</p>
+
+<p align="center">
+<a href="/images/starter_use_1.jpg"><img src="/images/starter_use_1.jpg" alt="Starter use" width="400"/></a>
+<a href="/images/starter_use_2.jpg"><img src="/images/starter_use_2.jpg" alt="Starter use" width="400"/></a>
+</p>
+<p align="center">
+<i>3. Use - Level after 10 hours. Bubbly texture.</i>
+</p>
+
+#### I'm not going to bake in the next 24h
+There's no point feeding and discarding daily if you're not using it. Put it in the fridge and take it out the day before you next want to bake. When you take it out, let it warm to room temp and feed it as normal. 
+
+__Warning__: It will become less active over time (and eventually die), but I've had no issues leaving mine a week between uses. If it's been longer, take it out a few days early and feed it daily. It'll soon be back to normal.
 
 
 ## Recipe
